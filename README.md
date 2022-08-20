@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Tailwinds CSS, Python**
 
-- 👨‍💻 All of my projects are available at [https://dions2.github.io/projects](https://dions2.github.io/projects)
-
 - 📝 I regularly write articles on [https://buildlucky.com](https://buildlucky.com)
 
 - ⚡ Fun fact **I love to doing something new**
@@ -17,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/dions76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dions76" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lukypurdiono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukypurdiono" height="30" width="40" /></a>
-<a href="/https://dions2.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dions2.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
